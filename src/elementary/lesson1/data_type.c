@@ -44,6 +44,5 @@ int main() {
     printSize();
     printf("*************************\n");
     printRangeOfType();
-
     return 0;
 }

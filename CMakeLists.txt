@@ -5,4 +5,4 @@ set(SOURCE_DIR src/)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(cplusplus_study src/elementary/lesson1/data_type.c)
+add_executable(cplusplus_study  src/elementary/lesson1/control.c)
